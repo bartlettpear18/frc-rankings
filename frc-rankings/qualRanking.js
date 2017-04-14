@@ -76,5 +76,3 @@ tournaments(254);
 numTeamsEvents("casj");
 qualPointsCalc(254);
 */
-
-regionTeams.teamList(1,"CA","California");
