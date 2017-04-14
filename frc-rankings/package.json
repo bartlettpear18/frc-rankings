@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/bartlettpear18/frc-rankings",
   "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.24.1",
+    "fs": "0.0.1-security",
+    "request": "^2.81.0",
     "thebluealliance": "^1.2.3"
   }
 }
